@@ -43,6 +43,7 @@
             // göra en meny
             // Gömd skatt/bonus
             // skapa medveta fel
+            //Testar malin 1231564
         }
     }
 }
